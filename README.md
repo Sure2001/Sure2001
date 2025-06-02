@@ -1,6 +1,6 @@
 <!-- Profile README for yourusername -->
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Surendhar</h1>
 <h3 align="center">A passionate Full Stack Developer from [Your Location]</h3>
 
 <p align="center">
@@ -10,10 +10,9 @@
 ---
 
 ### 💫 About Me:
-- 🔭 I’m currently working on **[Your Project Name]**
 - 🌱 I’m currently learning **Angular 14**, **Node.js**, and **MongoDB**
 - 💬 Ask me about **Angular**, **JavaScript**, **MongoDB**, **REST APIs**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **sureak2001@gmail.com**
 - ⚡ Fun fact: *I love turning coffee into code!*
 
 ---
