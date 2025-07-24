@@ -29,7 +29,8 @@
 ---
 
 ## 💼 Projects
-- 🛍️ [E-Commerce App](https://yourproject1.netlify.app)
+- 🛍️ [online-skill course website](https://online-skill-course.netlify.app)
+- 🛍️ [lugx-gaming website](https://lugx-gaming-anglar.netlify.app)
 - 🌐 [Portfolio Website](https://yourproject2.netlify.app)
 - 🖥️ HTML + CSS Static Site
 - ⚙️ Angular 14 + Express Fullstack App
@@ -38,9 +39,9 @@
 
 ## 📫 Connect With Me
 - 📍 Location: Erode, Tamil Nadu, India
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [LinkedIn](www.linkedin.com/in/surendhar-k-772503365)
 - 🌐 [Portfolio](https://yourportfolio.netlify.app)
-- 📧 Email: your.email@example.com
+- 📧 Email: sureak2001@gmail.com
 
 ---
 
