@@ -31,6 +31,7 @@
 ## 💼 Projects
 - 🛍️ [online-skill course website](https://online-skill-course.netlify.app)
 - 🛍️ [lugx-gaming website](https://lugx-gaming-anglar.netlify.app)
+- 🛍️ [Employee Master Screen](https://employee-master-screen.netlify.app)
 - 🌐 [Portfolio Website](https://surendharkportfolio.netlify.app)
 - 🖥️ HTML + CSS Static Site
 - ⚙️ Angular 14 + Express Fullstack App
